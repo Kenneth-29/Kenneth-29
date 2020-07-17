@@ -1,4 +1,9 @@
-### Hi there 👋
+Full Names: Kenneth Phatsimo Mogopodi
+Date of Birth: 29-Aug-XXXX 😄
+
+Renowned Java and Dart developer
+
+
 
 <!--
 **Kenneth-29/Kenneth-29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
