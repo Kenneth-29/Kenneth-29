@@ -1,7 +1,4 @@
-Full Names: Kenneth Phatsimo Mogopodi
-Date of Birth: 29-Aug-XXXX 😄
-
-Renowned Java and Dart developer
+Renowned Java and Dart developer 😄
 
 
 
