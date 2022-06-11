@@ -1,4 +1,4 @@
-[![Kenneth-29's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kenneth-29)](https://github.com/Kenneth-29/github-readme-stats)
+<!-- [![Kenneth-29's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kenneth-29)](https://github.com/Kenneth-29/github-readme-stats) -->
 
  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Kenneth-29&show_icons=false&theme=gotham" alt="Kenneth29" />
 
