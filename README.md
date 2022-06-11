@@ -1,4 +1,12 @@
-Renowned Java and Dart developer 😄
+[![Kenneth-29's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kenneth-29)](https://github.com/Kenneth-29/github-readme-stats)
+
+
+
+
+
+
+
+<!-- Renowned Java and Dart developer 😄 -->
 
 
 
