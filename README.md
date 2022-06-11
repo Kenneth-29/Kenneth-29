@@ -1,6 +1,6 @@
 [![Kenneth-29's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kenneth-29)](https://github.com/Kenneth-29/github-readme-stats)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kenneth-29&exclude_repo=github-readme-stats,Kenneth-29.github.io)](https://github.com/Kenneth-29/github-readme-stats)
 
 
 
